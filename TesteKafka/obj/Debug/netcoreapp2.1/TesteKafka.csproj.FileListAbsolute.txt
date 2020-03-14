@@ -1,0 +1,16 @@
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\obj\Debug\netcoreapp2.1\TesteKafka.csprojAssemblyReference.cache
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\obj\Debug\netcoreapp2.1\TesteKafka.RazorAssemblyInfo.cache
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\obj\Debug\netcoreapp2.1\TesteKafka.RazorAssemblyInfo.cs
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\obj\Debug\netcoreapp2.1\TesteKafka.AssemblyInfoInputs.cache
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\obj\Debug\netcoreapp2.1\TesteKafka.AssemblyInfo.cs
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\bin\Debug\netcoreapp2.1\TesteKafka.deps.json
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\bin\Debug\netcoreapp2.1\TesteKafka.runtimeconfig.json
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\bin\Debug\netcoreapp2.1\TesteKafka.runtimeconfig.dev.json
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\bin\Debug\netcoreapp2.1\TesteKafka.dll
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\bin\Debug\netcoreapp2.1\TesteKafka.pdb
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\obj\Debug\netcoreapp2.1\TesteKafka.RazorTargetAssemblyInfo.cache
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\obj\Debug\netcoreapp2.1\TesteKafka.dll
+C:\Users\samuel.almeida\source\repos\TesteKafka\TesteKafka\obj\Debug\netcoreapp2.1\TesteKafka.pdb
